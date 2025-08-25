@@ -98,7 +98,3 @@ littlelemon/
 3. Commit changes
 4. Push ke branch
 5. Buat Pull Request
-
-## License
-
-MIT License
